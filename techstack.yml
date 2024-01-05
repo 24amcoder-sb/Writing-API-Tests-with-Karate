@@ -1,7 +1,8 @@
 repo_name: 24amcoder-sb/Writing-API-Tests-with-Karate
 report_id: cd330008137c9cb9e9f1fb26f5e0d7f3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:20:36+00:00'
+timestamp: '2024-01-05T08:39:34+00:00'
 requested_by: packt-pradeeps
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate/blob/main/chapter07/java/src/test/resources/magicians.sql
   detection_source: chapter07/java/src/test/resources/magicians.sql
   last_updated_by: bischoffdev
   last_updated_on: 2023-01-03 10:35:10.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -65,6 +71,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -74,7 +81,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/run-karate-maven.yml"
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate/blob/main/.github/workflows/run-karate-docker.yml
+  detection_source: ".github/workflows/run-karate-docker.yml"
   last_updated_by: Benjamin Bischoff
   last_updated_on: 2023-02-17 23:02:56.000000000 Z
 - name: JUnit
@@ -86,6 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate/blob/main/chapter01/cucumber-glue-example/src/test/resources/junit-platform.properties
   detection_source: chapter01/cucumber-glue-example/src/test/resources/junit-platform.properties
   last_updated_by: bischoffdev
   last_updated_on: 2022-09-09 12:11:22.000000000 Z
@@ -97,7 +106,8 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
-  detection_source: chapter10/performance/src/test/java/logback-test.xml
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate/blob/main/chapter02/karate-maven/src/test/java/logback-test.xml
+  detection_source: chapter02/karate-maven/src/test/java/logback-test.xml
   last_updated_by: Benjamin Bischoff
   last_updated_on: 2022-10-03 13:24:20.000000000 Z
 - name: Shell
@@ -109,4 +119,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/24amcoder-sb/Writing-API-Tests-with-Karate
   detection_source: Repo Metadata
